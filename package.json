@@ -1,0 +1,15 @@
+{
+  "name": "week_03",
+  "version": "1.0.0",
+  "description": "Async file reading using Callback, Promises, and Async/Await in Node.js",
+  "main": "asyncAwait.js",
+  "type": "module",
+  "scripts": {
+    "start": "node asyncAwait.js",
+    "callback": "node callback.js",
+    "promise": "node promise.js",
+    "async": "node asyncAwait.js"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
